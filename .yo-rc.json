@@ -1,0 +1,43 @@
+{
+  "generator-jhipster": {
+    "applicationType": "microservice",
+    "gitCompany": "",
+    "baseName": "color",
+    "packageName": "org.zjh.ootb",
+    "packageFolder": "org/zjh/ootb",
+    "serverPort": 8081,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "enableSwaggerCodegen": "true",
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [
+      "gatling"
+    ],
+    "enableTranslation": false,
+    "nativeLanguage": "en",
+    "languages": [
+      "en"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "5.7.0",
+    "jwtSecretKey": "YjczYWNiNTJiZTczNGY5OTkwMTQ0ODQ0ZGIxZTAxNzRmM2JkN2MyMzNiNDMxMTg3OTkzZTk4YjVlZWY0N2RlMzk2NTA4NzJjYTNmNzhlYzFmNjc2ZDVkNTcxZWM3NzI5MmE4NmE0YzhlMmI4NmFjM2I2YTMzMDEwMGI1YzU1ZTQ=",
+    "otherModules": [],
+    "skipClient": true,
+    "skipUserManagement": true
+  },
+  "git-provider": "GitHub",
+  "git-company": "zhaojh221",
+  "repository-name": "color-application"
+}
